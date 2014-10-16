@@ -1,0 +1,26 @@
+<DOCTYPE! HTML>
+<html>
+
+<head>
+<h2>Lindsey's Thumbnail Sketches for Artist Portfolio Site</h2>
+</head>
+<body>
+
+<p>This is a very rough depiction of how I see the site. The thumbnails are listed in the same order that the pages will be displayed:</p>
+	<ul>
+		<li><strong>Thumbnail Image 1</strong><img src="Thumbnail1.jpg" alt="Thumbnail Image 1">Thumbnails A and A1 are both renderings of the index page of the site. In thumbnail A, the headline contains the name of the artist and the type of work that can be expected on the website. The primary focal point is a photograph (from the body of work) that serves as a solid introduction to the series to come. Clicking this photo would dissolve the site into the 2nd page. The photograph is located in the center of what could be considered a 3 grid column.<br>A1 is a second rendering that only contains the name of the artist without announcing the site type (photography/filmography). It features the same concept of an introductory image as the focal point, but in an ode to Duval, this would fade away on its own and automatically take viewers to B and B1</li>
+		<br>
+		<li><strong>Thumbnail Images 2 and 3</strong><img src="Thumbnail2.jpg" alt="Thumbnail Image 2"><img src="Thumbnail3.jpg" alt="Thumbnail Image 3">Thumbnails B and B1 are renderings of the second site page. In the left hand B, the focal point is a selection of either Photography or Filmography, with the artist's name above them. In the 2nd option, B on the right side contains a 2 column grid with rectangular photographs that would change when the cursor is rolled over them. The site has a strong visual balance. Clicking on the photographs would open the 3rd site page. The line below contains a 3rd and 4th option for the site. One consists of only the selections Photography and Filmography with no artist name. The other is also in a two column grid formation where the titles and images are listed top to bottom so as not to confuse the reader.</li>
+		<br>
+		<li><strong>Thumbnail Image 4</strong> <img src="Thumbnail4.jpg" alt="Thumbnail Image 4">Thumbnail 4 is one representation of what will happen when the "photography" title is selected. It got too wordy and I abandoned it. Thumbnail B3 located next to it is another sketch of how the photograph/filmography page can be rendered. Also in column form, but with the image corners touching and the titles underlined.</li>
+		<br>
+		<li><strong>Thumbnail Image 5</strong><img src="Thumbnail5.jpg" alt="Thumbnail Image 5"> Thumbnail 5 depicts what the Filmography page will look like when opened. The title is off to the top left of the screen. The primary focal point is the movie poster in the center of the page and a text description. It primary consistes of 3 columns with the column on the farthest left negative space. There is also the option of a navigation bar to cue the viewers to look below the fold. On the right side thumbnail sketch is another rendering for how the photography page will appear when opened. Like the Duval side, I opted for rectanglar photographs that have been paired on the same invisible line. When the cursor moves over each one, it reveals part of the set of images that can be found if the picture is clicked. Below these images in a brief summary of the photography set.</li>
+		<br>
+		<li><strong>Thumbnail Image 6</strong><img src="Thumbnail6.jpg" alt="Thumbnail Image 6">Thumbnail 6, labeled C2, depicts the continuation of the filmography site, specifically what viewers will see when they scroll below the fold. The images are centered on the page, with a brief introduction written off to the right side. The page is split into 3 columns with the farthest one on the left negative space. There is a possibility that each photograph of the movie poster will change to reveal an entire set of images from the film when the cursor moves over. I am still considering this. Thumbnail C3 is the next page in the photography site. Depending which image the viewer selects, a new page will open with the title of the set, a brief tone-setting description and a series of rectangular images listed from top to bottom on the page. All of the text and pictures would be centered down the page to create balance.  Altneratively, Thumbnail C4 shows the same concept as C3, but reformatted so that the title is centered on the page and the writing streches from the left to the right page border. The first photographic image is centered below this text and surrounded with an equal amount of space on the right and left side of the screen.</li>
+		<br>
+		<li><strong>Thumbnail Image 7</strong><img src="Thumbnail7.jpg" alt="Thumbnail Image 7">Thumbnail 7 depicts 2 versions of the "About" page. I think I will reference that on the index page of the site but I am not sure quite where as yet. In the left sketch the artist's photograph and bio would be centered on the page as the focal, most likely black text on a white background. An even amount of negative space would hold the text and image on the right and left side of the page. The right sketch is an alternative view that places the artist's photograph at the top, left section of the page with text stretching from left to write, filling the page and leaving a small border of white space on the left and right sides.</li>
+	</ul>
+</body>
+
+</html>
+
